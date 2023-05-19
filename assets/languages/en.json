@@ -1,0 +1,48 @@
+{
+  "login":"login",
+  "Don't have an account?": "Don't have an account?",
+  "Sign Up":  "Sign Up",
+  "Welcome!": "Welcome!",
+  "email": "email",
+  "password": "password",
+  "have an account?": "have an account?",
+  "Sign In": "Sign In",
+  "Register":"Register" ,
+  "User Name": "User Name",
+  "Confirm Password": "Confirm Password",
+  "Enter You Personal Information": "Enter You Personal Information",
+  "    Check Your Result    ": "    Check Your Result    ",
+  "home": "Home",
+  "language": "Language",
+  "about": "About App",
+  "Log out": "Log out",
+  "Are you sure you want to log out?": "Are you sure you want to log out?",
+  "Cancel": "Cancel",
+  "Ok": "Ok",
+  "Notifications": "Notifications",
+  "Settings": "Settings",
+  "MEMBER": "MEMBER",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Edit Profile": "Edit Profile",
+  "description": "Please choose an x-ray image of a child between the ages of 3 months and 15 years, and the image must be of high quality.",
+  "Upload Image": "Upload Image",
+  "Home": "Home",
+  "Exact Age": "Exact Age",
+  "My Reports": "My Reports",
+  "Profile": "Profile",
+  "Select": "Select your birthdate",
+  "Select the current date": "Select the current date",
+  "Calculate age": "Calculate age",
+  "Your age is": "Your age is",
+  "year": "year",
+  "months": "month",
+  "days": "day"
+
+
+
+
+
+
+
+}

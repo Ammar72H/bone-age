@@ -1,0 +1,49 @@
+{
+  "login":"تسجيل الدخول",
+  "Don't have an account?": "ليس لديك حساب ؟",
+  "Sign Up":  " تسجيل",
+  "Welcome!": "مرحبا!",
+  "email": "البريد الالكتروني",
+  "password": "الرقم السري",
+  "have an account?": "لديك لديك حساب ؟",
+  "Sign In": "تسجيل الدخول",
+  "Register":"  تسجيل  ",
+  "User Name": "اسم المستخدم",
+  "Confirm Password": "تأكيد الرقم السري",
+  "Enter You Personal Information": "ادخل بياناتك الشخصية",
+  "    Check Your Result    ": "    احصل على نتيجتك    ",
+  "home": "الصفحة الرئيسية",
+  "language": "اللغة",
+  "about": "عن التطبيق",
+  "Log out": "تسجيل الخروج",
+  "Are you sure you want to log out?": "هل انت متأكد من تسجيل الخروج؟",
+  "Cancel": "الغاء",
+  "Ok": "تأكيد",
+  "Notifications": "الاشعارات",
+  "Settings": "الاعدادات",
+  "MEMBER": "عضو",
+  "First Name": "الاسم الاول",
+  "Last Name": "الاسم الاخير",
+  "Edit Profile": "تعديل الملف الشخصي",
+  "description": "من فضلك اختيار صورة اشعة سينية لطفل يتراوح عمره من 3 اشهر الي 15 سنة ، ويجب ان تكون الصورة عالية الجودة",
+  "Upload Image": "تحميل صورة",
+  "Home": "الرئيسية",
+  "Exact Age": "احسب العمر",
+  "My Reports": "التقارير",
+  "Profile": "الشخصية",
+  "Select": "تحديد يوم ميلادك",
+  "Select the current date": "تحديد تاريخ اليوم",
+  "Calculate age": "احسب العمر",
+  "Your age is": "عمرك هو",
+  "year": "سنة",
+  "months": "شهر",
+  "days": "يوم"
+
+
+
+
+
+
+
+
+}
